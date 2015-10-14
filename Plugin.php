@@ -1,8 +1,8 @@
 <?php
 
-namespace Plugin\Css;
+namespace Kanboard\Plugin\Css;
 
-use Core\Plugin\Base;
+use Kanboard\Core\Plugin\Base;
 
 class Plugin extends Base
 {
